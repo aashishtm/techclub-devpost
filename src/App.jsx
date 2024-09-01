@@ -158,7 +158,7 @@ const ClubWebsite = () => {
                 </div>
                 <button
                   type="submit"
-                  className="w-full bg-blue-600 text-white font-bold py-3 rounded-lg hover:bg-blue-700 transition duration-300"
+                  className="w-full bg-teal-600 text-white font-bold py-3 rounded-lg hover:bg-teal-700 transition duration-300"
                 >
                   Submit Application
                 </button>
