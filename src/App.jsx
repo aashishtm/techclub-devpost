@@ -57,13 +57,13 @@ const ClubWebsite = () => {
       </header>
 
       <main>
-        <section id="home" className="bg-black text-teal-600 py-20">
+        <section id="home" className="bg-gray-200 text-teal-600 py-20">
           <div className="container mx-auto text-center">
             <h2 className="text-4xl font-bold mb-4">Welcome to TechClub</h2>
             <p className="text-xl mb-8">Innovate. Create. Collaborate.</p>
             <a
               href="#join"
-              className="bg-slate-100 text-teal-600 px-6 py-3 rounded-full font-bold hover:bg-blue-100 transition duration-300"
+              className="bg-teal-600 text-white px-6 py-3 rounded-full font-bold hover:bg-teal-700 transition duration-300"
             >
               Join Now
             </a>
